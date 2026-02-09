@@ -1,6 +1,6 @@
 # ¡Hola, soy Sergio Bravo Mora! 👋
 
-Estudiante de Ingeniería Informática apasionado por el desarrollo de software y la resolución de problemas. Actualmente enfocado en perfeccionar mi stack tecnológico y contribuir a proyectos innovadores.
+Estudiante de Desarrollo Web apasionado por el desarrollo de software y la resolución de problemas. Actualmente enfocado en perfeccionar mi stack tecnológico y contribuir a proyectos innovadores.
 
 ---
 
@@ -8,7 +8,6 @@ Estudiante de Ingeniería Informática apasionado por el desarrollo de software 
 <p align="left">
 <a href="TU_LINK_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:sergiobmnv@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="TU_LINK_INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
 
 ---
