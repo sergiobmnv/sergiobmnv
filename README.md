@@ -1,4 +1,4 @@
-# ¡Hola, soy Sergio Bravo Mora! 👋
+# ¡Hola, Soy Sergio Bravo Mora! 👋
 
 Estudiante de Desarrollo Web apasionado por el desarrollo de software y la resolución de problemas. Actualmente enfocado en perfeccionar mi stack tecnológico y contribuir a proyectos innovadores.
 
